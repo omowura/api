@@ -2,6 +2,7 @@
 # REST Countries
 
 Extracting information about countries via a RESTful API using base_url: https://restcountries.com
+
 Search by:
 1. Name: https://restcountries.com/v3.1/name/{name}
 2. List of Codes: https://restcountries.com/v3.1/alpha?codes={code},{code},{code}
